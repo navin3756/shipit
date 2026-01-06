@@ -1,0 +1,7 @@
+{
+  "name": "ShipIt - Production Full Stack",
+  "description": "Enterprise-ready deployment platform powered by Supabase and Gemini Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
